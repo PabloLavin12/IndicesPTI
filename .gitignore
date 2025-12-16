@@ -1,0 +1,12 @@
+data/
+prueba/
+scripts/
+*.sh
+*.R
+*.err
+*.out
+*.tmp
+*.log
+*.h5
+.ipynb_checkpoints/
+.DS_Store
