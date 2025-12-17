@@ -50,7 +50,7 @@ El análisis se ha llevado a cabo utilizando el ecosistema de **R** y las herram
 
 ## Autoría
 
-Este proyecto ha sido desarrollado por *Pablo Lavín Pellón*.
+Todo el código de los notebooks y los resultados proporcionados han sido desarrollados por *Pablo Lavín Pellón*.
 
 ## Licencia
 
