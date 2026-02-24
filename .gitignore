@@ -1,6 +1,9 @@
+indexAgro/
+downscaling/
 data/
 prueba/
 scripts/
+*.rds
 *.sh
 *.R
 *.err
