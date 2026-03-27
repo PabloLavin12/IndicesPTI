@@ -1,8 +1,8 @@
-# Cálculo de Índices Agroclimáticos para la PTI
+# Cálculo de Índices Agroclimáticos
 
 ## Descripción del Proyecto
 
-Este repositorio contiene los flujos de trabajo y scripts desarrollados para el cálculo y análisis de índices agroclimáticos en el marco de la **Plataforma Temática Interdisciplinar (PTI)**.
+Este repositorio contiene los flujos de trabajo y scripts desarrollados para el cálculo y análisis de índices agroclimáticos.
 
 El objetivo principal es la generación de indicadores climáticos de impacto para el sector agrícola, utilizando sistemas de predicción estacional y técnicas de corrección de sesgo para garantizar la fiabilidad de los datos.
 
